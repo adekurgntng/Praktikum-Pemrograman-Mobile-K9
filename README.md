@@ -1,7 +1,3 @@
-<img width="333" alt="image" src="https://github.com/NabilaPutriNurhaliza/Praktikum-Pemrograman-Mobile-K9/assets/127383161/b48b8aa7-abf2-4d5b-a3aa-e0e3fc06ea85"># Simple User List App
-
-Welcome to the Simple User List App! This application is a straightforward and elegant solution for managing and viewing a list of users. It was developed by Group 9, which comprises two dedicated members.
-
 ## Team Members
 
 - **Nabila Putri Nurhaliza (2106074)**
