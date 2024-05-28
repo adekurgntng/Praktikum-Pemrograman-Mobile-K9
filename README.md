@@ -1,7 +1,3 @@
-# Simple User List App
-
-Welcome to the Simple User List App! This application is a straightforward and elegant solution for managing and viewing a list of users. It was developed by Group 9, which comprises two dedicated members.
-
 ## Team Members
 
 - **Nabila Putri Nurhaliza (2106074)**
@@ -25,6 +21,18 @@ The Simple User List App is designed to fetch and display user information from 
 
 ![User Detail](screenshots/user_detail.png)
 *The detailed view of a selected user.*
+
+![User List](screenshots/add_user.png)
+*The add user screen displaying the add user form.*
+
+![User Detail](screenshots/add_user_berhasil.png)
+*Tampilan terminal bahwa berhasil menambahkan user.*
+
+![User List](screenshots/pop_up_add_user_berhasil.png)
+*Pop up berhasil menambah user.*
+
+![User Detail](screenshots/pop_up_user.png)
+*Pop up ketika di klik icon user.*
 
 ## Installation
 
@@ -77,8 +85,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact us at:
 
-- Nabila Putri Nurhaliza: [email@example.com](mailto:2106074@itg.ac.id)
-- Ade Kurnia: [email@example.com](mailto:2106029@itg.ac.id)
+- Nabila Putri Nurhaliza: [2106074@itg.ac.id](mailto:2106074@itg.ac.id)
+- Ade Kurnia: [2106029@itg.ac.id](mailto:2106029@itg.ac.id)
 
 ---
 
